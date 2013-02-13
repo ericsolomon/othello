@@ -1,0 +1,4 @@
+othello
+=======
+
+The Othello Project
